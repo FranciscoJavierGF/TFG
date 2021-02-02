@@ -94,7 +94,7 @@
 	"routes": [
 		{
 			"name": "Ruta del Vino",
-			"color": #6EC720,
+			"color": "green",
 			"description": "",
 			"stops": [
 				[38.024945, -0.658429],
