@@ -96,8 +96,8 @@
 		{
 			"name": "Ruta del vino",
 			"description": "La ruta del vino se puso en marcha en mayo del 2010. Con esta ruta se pretende poner en valor y fomentar la conservación de los viñedos de la Laguna de la Mata, por su influencia en el desarrollo socioeconómico de la zona y la importancia cultural y ambiental de este cultivo. Se trata de un agradable paseo entre los viñedos del parque con cinco paradas, una pequeña área recreativa y paneles interpretativos sobre la historia, la biodiversidad, las particularidades del cultivo y el proceso artesanal de obtención del célebre 'Vino de la Mata'. Para acceder a esta ruta dirígete al punto de inicio de la ruta amarilla y ruta roja, junto al Centro de Interpretación del parque, camina unos 150 metros y verás el primer panel interpretativo que indica el inicio de la ruta del vino.",
-			"dist": "1.5",
-			"dur": "40",
+			"dist": 1.5,
+			"dur": 40,
 			"diff": "Baja",
 			"recom": "Llevar ropa, calzado cómodo y agua. No salirse de la ruta. Respetar el cultivo privado.",
 			"details": "",
@@ -276,7 +276,7 @@
 		{
 			"name": "Ruta en bicicleta",
 			"description": "La Ruta en bicicleta, tiene un recorrido no técnico de 5.200 metros de longitud que discurre por la parte sur-oeste del Parque Natural. Tiene una rampa de ascenso algo dura, pero merece la pena realizar el itinerario en su totalidad para tener una vista muy completa. El trazado discurre por una zona relativamente alejada de la laguna para evitar molestias a las aves acuáticas. Se recomienda no salir del recorrido marcado y respetar todo el entorno.",
-			"dist": "5.2",
+			"dist": 5.2,
 			"dur": "",
 			"diff": "",
 			"recom": "",
