@@ -4,9 +4,11 @@
 	"natPark": "Lagunas de la Mata y Torrevieja",
 	"mun": "Torrevieja",
 	"author": "Francisco Javier García Fernández",
+	"license": "© Institut Cartogràfic Valencià, © 2015, Generalitat Parques Naturales de la Comunitat Valenciana - Lagunas de la Mata-Torrevieja Conselleria de Agricultura, Medio Ambiente, Cambio Climático y Desarrollo Rural",
+	"code": "utf-8",
 	"posGPS": [38.0122, -0.709444],
 	"area": {
-		"value": 3743,
+		"value": 3717.3,
 		"edge": [
 			[38.020538, -0.664960],
 			[38.019050, -0.666161],
@@ -94,38 +96,55 @@
 	"routes": [
 		{
 			"name": "Ruta del vino",
-			"description": "",
+			"description": "La ruta del vino se puso en marcha en mayo del 2010. Con esta ruta se pretende poner en valor y fomentar la conservación de los viñedos de la Laguna de la Mata, por su influencia en el desarrollo socioeconómico de la zona y la importancia cultural y ambiental de este cultivo. Se trata de un agradable paseo entre los viñedos del parque con cinco paradas, una pequeña área recreativa y paneles interpretativos sobre la historia, la biodiversidad, las particularidades del cultivo y el proceso artesanal de obtención del célebre 'Vino de la Mata'. Para acceder a esta ruta dirígete al punto de inicio de la ruta amarilla y ruta roja, junto al Centro de Interpretación del parque, camina unos 150 metros y verás el primer panel interpretativo que indica el inicio de la ruta del vino.",
+			"dist": "1.5",
+			"dur": "40",
+			"diff": "Baja",
+			"recom": "Llevar ropa, calzado cómodo y agua. No salirse de la ruta. Respetar el cultivo privado.",
+			"details": "",
 			"color": "#2B9718",
 			"stops": [
 				{
-					"name": "",
-					"description": "",
-					"pos": [38.024945, -0.658429]
+					"num": 0,
+					"name": "Comienzo de ruta",
+					"description": "Desde este punto comienza la ruta y se realiza el recorrido hacia la primera parada.",
+					"pos": [38.024945, -0.658429],
+					"details": ""
 				},
 				{
-					"name": "",
-					"description": "",
-					"pos": [38.024015, -0.659438]
+					"num": 1,
+					"name": "El Altillo",
+					"description": "Esta parada ofrece una vista panorámica del entorno de la Laguna de la Mata, en la que se distinguen las extensiones de los cultivos de viñedo, el monte del 'Chaparral', y la Laguna de la Mata con sus orillas y saladares.",
+					"pos": [38.024015, -0.659438],
+					"details": ""
 				},
 				{
-					"name": "",
-					"description": "",
-					"pos": [38.023288, -0.661627]
+					"num": 2,
+					"name": "El cruce",
+					"description": "Se encuentra situada en un cruce de caminos, entre parcelas de viñedos. Aqui encontrarás información sobre la plaga más significativa de la historia de la viticultura, la Filoxera, y cómo el viñedo de La Mata consiguió sobrevivir a ella, además de información sobre las características de las dos variedades más cultivadas en los viñedos de la Mata: la variedad moscatel y meseguera.",
+					"pos": [38.023288, -0.661627],
+					"details": "Desde la segunda parada, seguiremos en dirección norte hacia la Laguna de la Mata."
 				},
 				{
-					"name": "",
-					"description": "",
-					"pos": [38.026204, -0.661122]
+					"num": 3,
+					"name": "El Acequión",
+					"description": "En las proximidades del canal, que comunica el mar con la Laguna de la Mata, conocido como 'El Acequión', en una zona de vegetación típica de un saladar seco, eucaliptos y parcelas de viñedos, se ubica la tercera parada, desde donde se podrá conocer la flora y la fauna asociada al viñedo de La Mata.",
+					"pos": [38.026204, -0.661122],
+					"details": "Desde aquí, caminando hacia el Este, en dirección al pueblo de la Mata, iremos bordeando 'El Acequión' hasta la cuarta parada donde se encuentra el 'Área recreativa Villa Laguna'."
 				},
 				{
-					"name": "",
-					"description": "",
-					"pos": [38.027531, -0.657571]
+					"num": 4,
+					"name": "Villa Laguna",
+					"description": "Es un área accesible en la que dispones de sombra, mesas y bancos dónde podrás reponer fuerzas mientras disfrutas del paisaje de los viñedos de la Mata. Saliendo del área recreativa encontrarás un nuevo panel con el que podrás aprender sobre las labores tradicionales del cultivo de la uva de secano.",
+					"pos": [38.027531, -0.657571],
+					"details": ""
 				},
 				{
-					"name": "",
-					"description": "",
-					"pos": [38.025781, -0.656799]
+					"num": 5,
+					"name": "Fin de ruta",
+					"description": "Por último, la quinta parada se encuentra situada entre viñedos donde se descubre la población de la Mata y el acceso que existe desde el Parque Natural a esta población. En su panel interpretativo se explica el proceso de elaboración tradicional del vino de la Mata. En el municipio existen varias bodegas artesanales en las que cada año se elabora el típico vino de La Mata.",
+					"pos": [38.025781, -0.656799],
+					"details": ""
 				}
 			],
 			"points": [
@@ -170,33 +189,48 @@
 		},
 		{
 			"name": "Ruta a pie",
-			"description": "",
+			"description": "La Ruta a pie, tiene un itinerario en el que están presentes la mayoría de los ecosistemas del parque. El trayecto permite contemplar una amplia pano-rámica de todo el parque, la fauna y la flora, las formaciones vegetales típicas y las aves, verdaderas protagonistas en cualquier zona húmeda.",
+			"dist": "",
+			"dur": "",
+			"diff": "",
+			"recom": "",
+			"details": "",
 			"color": "#FAE10A",
 			"stops": [
 				{
-					"name": "",
-					"description": "",
-					"pos": [38.022472, -0.660627]
+					"num": 0,
+					"name": "Comienzo de ruta",
+					"description": "Desde este punto comienza la ruta y se realiza el recorrido hacia la primera parada.",
+					"pos": [38.022472, -0.660627],
+					"details": ""
 				},
 				{
-					"name": "",
-					"description": "",
-					"pos": [38.026039, -0.662343]
+					"num": 1,
+					"name": "El Acequión",
+					"description": "El Acequión es un canal abierto arti-ficialmente para permitir la entrada de agua de mar que se constituye como una pequeña representación del hábitat marino. Se observan especies de fauna y flora marina como cangrejos, algas, actinias, posidonias, gusanos, polique-tos, peces, etc. El agua entra en La Mata por gravedad, debido a que la laguna se encuentra más baja que el nivel del mar.",
+					"pos": [38.026039, -0.662343],
+					"details": "Desde aquí se observa la vegetación de saladar, ubicada en las orillas de la laguna. Estas plantas poseen jugos internos con altas concentraciones de sal para poder soportar la alta concen-tración salina de suelo y las elevadas temperaturas, sin deshidratarse. Algu-nas de ellas eliminan el sobrante de sal por las hojas, lo que les confiere un color blanquecino."
 				},
 				{
-					"name": "",
-					"description": "",
-					"pos": [38.022218, -0.664661]
+					"num": 2,
+					"name": "El Observatorio",
+					"description": "Desde el Observatorio se ven las distintas aves acuáticas de la laguna. Según la época en la que el viajero realice la visita, podrá ver diferentes tipos de aves, ya que algunas de las mismas se detienen en este lugar para descansar y alimentarse en su largo viaje hacia África, mientras que otras pasan el invierno porque donde viven, la tundra ártica, tiene normalmente condiciones inhabitables en esta época. En primavera regresan a su hogar habitual. Otras aves, por el contrario, viven todo el año en el Parque. Son sedentarias.",
+					"pos": [38.022218, -0.664661],
+					"details": "En esta parada se pueden observar desde gaviotas, chorlitejos, cigüeñuelas, avocetas y charranes, hasta flamencos y zampullines cuellinegros. El silencio en este punto debe ser total para evitar espantar a las aves."
 				},
 				{
-					"name": "",
-					"description": "",
-					"pos": [38.019886, -0.669617]
+					"num": 3,
+					"name": "La Pinada",
+					"description": "El tercer alto en el camino se produce en la Pinada. Desde la distancia ya se observa el carrizo, una planta típica en este tipo de zonas cuya presencia denota la existencia de agua dulce. En esta última parada hay un importante conjunto de pino carrasco y pino piñonero además de eucaliptos. Estos últimos son fruto de la repoblación artificial.",
+					"pos": [38.019886, -0.669617],
+					"details": "También en la Pinada se ve una importante zona de saladar. El visitante puede buscar las señales que dejan los animales a su paso, intentar diferenciar los distintos tipos de pinos o, simplemente, descansar bajo una sombra. De cualquier forma puede disfrutar de su estancia en el Parque."
 				},
 				{
-					"name": "",
-					"description": "",
-					"pos": [38.020528, -0.675926]
+					"num": 4,
+					"name": "El Zampullín",
+					"description": "La cuarta parada es el observatorio El Zampullín. En el Parque Natural se han llegado a contabilizar concentraciones de miles de Zampullines, convirtiéndose en el principal punto de invernada de la Península Ibérica. La Mata es un área de reposo y alimentación durante la migra-ción de las aves.",
+					"pos": [38.020528, -0.675926],
+					"details": "Desde aquí, se realiza el recorrido al comienzo de ruta pasando por el resto de paradas hasta llegar al Centro de Información."
 				}	
 			],
 			"points": [
@@ -242,13 +276,55 @@
 		},
 		{
 			"name": "Ruta en bicicleta",
-			"description": "",
+			"description": "La Ruta en bicicleta, tiene un recorrido no técnico de 5.200 metros de longitud que discurre por la parte sur-oeste del Parque Natural. Tiene una rampa de ascenso algo dura, pero merece la pena realizar el itinerario en su totalidad para tener una vista muy completa. El trazado discurre por una zona relativamente alejada de la laguna para evitar molestias a las aves acuáticas. Se recomienda no salir del recorrido marcado y respetar todo el entorno.",
+			"dist": "5.2",
+			"dur": "",
+			"diff": "",
+			"recom": "",
+			"details": "Cabe destacar que en esta ruta no hay paradas. Los puntos que se remarcan son orientativos con la finalidad de que sea más sencillo situar cada parte del recorrido en el mapa.",
 			"color": "#E90C0C",
 			"stops": [
 				{
-					"name": "",
-					"description": "",
-					"pos": [38.022752, -0.660545]
+					"num": 0,
+					"name": "Comienzo de ruta",
+					"description": "Partiendo del Centro de Información por el camino de tierra en dirección al cementerio, se llega en seguida al camino asfaltado, y continuando recto hasta abandonarlo, se enlaza con la senda de tierra que asciende a los palomares.",
+					"pos": [38.022752, -0.660545],
+					"details": "Durante el ascenso se contempla, a mano derecha, el bosque de pinos, así como una amplia vista de la laguna de La Mata."
+				},
+				{
+					"num": 1,
+					"name": "El ascenso",
+					"description": "Durante el ascenso se contempla, a mano derecha, el bosque de pinos, así como una amplia vista de la laguna de La Mata.",
+					"pos": [38.020206, -0.665194],
+					"details": ""
+				},
+				{
+					"num": 2,
+					"name": "Camino estrecho entre pinos",
+					"description": "Al pasar el séptimo palomar, giramos 180 grados y tomamos un camino estrecho que discurre entre pinos. A unos 50 metros siguiendo el camino, nos encontraremos con el punto más alto del Parque.",
+					"pos": [38.012662, -0.667407],
+					"details": ""
+				},
+				{
+					"num": 3,
+					"name": "El descenso",
+					"description": "Desde el punto más alto del parque podremos disfrutar de la vista de las dos lagunas, la pinada, el Mediterráneo y, en los días buenos, divisaremos la isla de Tabarca. Desde este punto se reanuda la marcha y comienza el descenso, debiendo tomar la primera bifurcación a la derecha.",
+					"pos": [38.010188, -0.671428],
+					"details": "El descenso rápido compensa la subida."
+				},
+				{
+					"num": 4,
+					"name": "Camino entre bancales de vid",
+					"description": "Al llegar al final de esta senda, sale un camino a la izquierda que discurre entre bancales de vid. Una maravillosa vista en primer plano de una masa de carrizo denota la presencia de agua dulce. En segundo plano se encuentra la laguna.",
+					"pos": [38.020507, -0.665204],
+					"details": ""
+				},
+				{
+					"num": 5,
+					"name": "La Pinada",
+					"description": "Finalmente, llegaremos a la acogedora sombra que ofrece la pinada. Estupendo punto para detenerse y tomar un poco de aire. Esta masa forestal de repoblación está formada por eucaliptos y pinos (piñonero y carrasco).",
+					"pos": [38.019648, -0.669611],
+					"details": "Para regresar al punto de partida no hay mas que tomar el camino que asciende al Centro de Información."
 				}
 			],
 			"points": [
@@ -323,6 +399,13 @@
 	],
 	"infoSites": [
 		{
+			"name": "Centro de Información",
+			"description": "Lugar en donde se puede obtener información relativa a las rutas ofertadas en el parque natural junto con sus diversas actividades, recomendaciones y prohibiciones. También conocido como Centro de Visitantes. El centro está emplazado en la antigua Casa Forestal de la pedanía de la Mata (Torrevieja), situada a unos 400 m de la N-332 Alicante - Cartagena, en el punto km 64.5. El acceso al mismo se efectua desde la carretera nacional por un camino asfaltado.",
+			"details": "Días que el centro permanecerá cerrado: 1 y 6 de enero y 24, 25 y 31 de diciembre.",
+			"staff": "2 Educadores medioambientales. 1 Técnico del Servicio de Gestión de Espacios Naturales Protegidos CITMA.",
+			"timetable": "De 9:30h a 14:00h (de lunes a viernes). De 9:00h a 13:00h (sábados, domingos y festivos)",
+			"phone": "96 572 16 50",
+			"email": "parque_lamata@gva.es",
 			"pos": [38.025129, -0.658424]
 		}
 	]
