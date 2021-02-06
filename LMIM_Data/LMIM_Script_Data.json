@@ -1,5 +1,6 @@
 {
 	"name": "Lagunas de la Mata Interactive Map Data",
+	"description": "Este archivo 'JSON' recopila los datos relativos al área que cubre el parque natural junto con sus lugares de información. También se detallan las rutas que se pueden realizar en él especificando, entre otras características, sus numerosas paradas.",
 	"natPark": "Lagunas de la Mata y Torrevieja",
 	"mun": "Torrevieja",
 	"author": "Francisco Javier García Fernández",
